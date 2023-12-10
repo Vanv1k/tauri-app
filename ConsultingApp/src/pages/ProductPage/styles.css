@@ -1,0 +1,38 @@
+.row-2cols {
+    display: flex;
+  }
+  
+.card-img-selected {
+    width: 85%;
+    border: 3px solid rgb(187, 187, 187);
+    border-radius: 20px;
+    margin-left: 15%;
+    overflow: hidden;
+    height: auto;
+ }
+  
+.col-1 {
+    width: 120%;
+}
+  
+.col-2 {
+    margin: 0 10%;
+    max-width: 38%;
+}
+  
+.card-description-selected {
+    font-size: 115%;
+}
+  
+.button-buy {
+    flex: 1;
+    max-width: 150px;
+    height: 40px;
+    font-size: 115%;
+}
+  
+.card-price-selected {
+    margin-top: 3%;
+    font-size: 125%;
+}
+  
